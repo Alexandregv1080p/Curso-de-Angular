@@ -11,8 +11,7 @@ import { FooterComponent } from './components/template/footer/footer.component';
 import { NavComponent } from './components/template/nav/nav.component';
 
 import {MatSidenavModule} from '@angular/material/sidenav';
-import {MatListModule}from '@angular/material/list';
-
+import {MatListModule} from '@angular/material/list';
 
 @NgModule({
   declarations: [
@@ -28,7 +27,6 @@ import {MatListModule}from '@angular/material/list';
     MatToolbarModule,
     MatSidenavModule,
     MatListModule
-
   ],
   providers: [],
   bootstrap: [AppComponent]
