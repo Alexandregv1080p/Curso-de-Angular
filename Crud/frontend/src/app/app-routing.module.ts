@@ -1,4 +1,5 @@
-import { NgModule } from '@angular/core';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
+import { NgModule, Component } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 //aqui é a sessão onde muda os router links
@@ -13,6 +14,9 @@ const routes: Routes = [
   },{
     path:"products" ,
     component: ProductCrudComponent
+  },{
+    path:"products/create",
+    component:ProductCreateComponent 
   }
 ];
 
