@@ -14,6 +14,31 @@
       "id": 3,
       "name": "Samsung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "Notebook",
+      "price": "120",
+      "id": 4
+    },
+    {
+      "name": "Notebook",
+      "price": "2000.50",
+      "id": 5
+    },
+    {
+      "name": "Lapis",
+      "price": "2.50",
+      "id": 6
+    },
+    {
+      "name": "Videogame",
+      "price": "200.00",
+      "id": 7
+    },
+    {
+      "name": "LepTop",
+      "price": "2000.59",
+      "id": 8
     }
   ]
 }
