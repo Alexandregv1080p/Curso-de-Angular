@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta BIC",
-      "price": 5.89
+      "price": "5.50"
     },
     {
       "id": 2,
@@ -39,6 +39,11 @@
       "name": "LepTop",
       "price": "2000.59",
       "id": 8
+    },
+    {
+      "name": "Videogame",
+      "price": "2000.50",
+      "id": 9
     }
   ]
 }
